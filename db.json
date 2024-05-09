@@ -1,0 +1,20 @@
+{
+  "feedback": [
+    {
+      "rating": 10,
+      "text": "Feedback item 1 coming from the server updated!",
+      "date": "2024-05-09T15:04:47.687Z",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "rating": 9,
+      "text": "Feedback item 2 coming from the server"
+    },
+    {
+      "id": "3",
+      "rating": 8,
+      "text": "Feedback item 3 coming from the server"
+    }
+  ]
+}
